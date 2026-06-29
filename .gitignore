@@ -1,0 +1,6 @@
+.env
+chatbot.db
+chat_titles.json
+faiss_db/
+.DS_Store
+__pycache__/
