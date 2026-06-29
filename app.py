@@ -1,4 +1,4 @@
-from chatbot_with_hitl import (
+from backend import (
     chatbot,
     get_all_threads,
     ingest_rag_document,
